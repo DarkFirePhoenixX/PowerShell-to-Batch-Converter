@@ -1,5 +1,5 @@
 # PowerShell-To-Batch-Converter
- Small script to convert powershell to batch files allowing you to execute your scripts without enabling "running scripts" on Windows.
+ Small script to convert powershell to batch files with base64 encoding, allowing you to execute your scripts without enabling "running scripts" on Windows.
 
  There are two versions: one Batch & one PowerShell one.
 
